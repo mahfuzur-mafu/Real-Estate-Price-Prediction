@@ -1,4 +1,4 @@
-# Real Estate Price Analysis and Prediction
+# Real Estate Price Prediction with Streamlit
 
 This project focuses on analyzing real estate data and building predictive insights on house prices. The dataset contains features such as house size, number of bedrooms, and other key attributes.
 
